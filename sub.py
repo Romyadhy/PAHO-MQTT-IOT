@@ -14,9 +14,9 @@ cursor = db.cursor()
 
 # 🔹 MQTT Setup
 BROKER = "192.168.21.44"
-TOPIC_DATA = "sensor/waterlevel"          # dari sensor
-TOPIC_REQUEST = "request/waterlevel"      # dari bot
-TOPIC_RESPONSE = "response/waterlevel"    # untuk bot
+TOPIC_DATA = "sensor/waterlevel"          
+TOPIC_REQUEST = "request/waterlevel"      
+TOPIC_RESPONSE = "response/waterlevel"    
 
 # 🔹 Telegram Bot Setup
 TELEGRAM_BOT_TOKEN = "7744245206:AAHGAlfLOK3F3ECSpVHSEQJIfxDay4qT5fo"

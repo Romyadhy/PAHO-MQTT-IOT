@@ -63,6 +63,5 @@ pip install paho-mqtt python-telegram-bot mysql-connector-python
 
 ---
 
-**Author:** Romyadhy
+**Keep Code No Enemies**
 
-**License:** MIT
